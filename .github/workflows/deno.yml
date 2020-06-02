@@ -29,4 +29,4 @@ jobs:
         run: deno fmt --check **/*.ts
 
       - name: Run tests
-        run: deno test test.ts
+        run: deno test.ts
