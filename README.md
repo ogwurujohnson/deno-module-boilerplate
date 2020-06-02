@@ -1,4 +1,4 @@
-# 🦕 deno-module-starter
+# 🦕 deno-module-boilerplate
 
 [Deno](https://deno.land) module boilerplate repository.
 
