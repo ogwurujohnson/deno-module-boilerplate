@@ -12,5 +12,4 @@ jobs:
         with:
           deno-version: 0.36.0
       - run: |
-          deno fmt **/*.ts --check
           deno test -A
